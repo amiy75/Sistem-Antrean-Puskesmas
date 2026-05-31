@@ -1,0 +1,66 @@
+Nomor Antrean,Nama,Umur,Gender,Poli,Keluhan,Prioritas,Status,Estimasi
+U002,Ilham,21,Laki laki,umum,pendarahan,1,Diproses,Sedang Diproses
+U006,Amel,27,Perempuan,umum,pendarahan,1,Menunggu,15 menit
+U007,Rahma,20,Perempuan,umum,kejang,2,Menunggu,30 menit
+U001,Ikhsan,17,Laki laki,umum,flu,999,Menunggu,45 menit
+U003,Sukandar,45,Laki laki,umum,gatal gatal,999,Menunggu,60 menit
+U004,Siti,21,Perempuan,umum,sakit mata,999,Menunggu,75 menit
+U005,Milenia,25,Perempuan,umum,pusing,999,Menunggu,90 menit
+U008,Asta,33,Perempuan,umum,flu,999,Menunggu,105 menit
+U009,Mozza,42,Perempuan,umum,batuk,999,Menunggu,120 menit
+U010,Supiah,55,Perempuan,umum,konsultasi kehamilan,999,Menunggu,135 menit
+G001,Agus,55,Laki laki,gigi,gigi berlubang,999,Diproses,Sedang Diproses
+G002,Indy,30,Perempuan,gigi,scaling,999,Menunggu,15 menit
+G003,Ibra,17,Laki laki,gigi,gigi berlubang,999,Menunggu,30 menit
+G004,Dedy,21,Laki laki,gigi,scalling,999,Menunggu,45 menit
+G005,Radit,16,Laki laki,gigi,scaling,999,Menunggu,60 menit
+G006,Najib,21,Laki laki,gigi,berlubang,999,Menunggu,75 menit
+G007,Istu,25,Perempuan,gigi,sakit gigi,999,Menunggu,90 menit
+G008,Warsito,17,Laki laki,gigi,berdarah,999,Menunggu,105 menit
+G009,Ersa,18,Perempuan,gigi,flu,999,Menunggu,120 menit
+G010,Nayla,18,Perempuan,gigi,gigi berlubang,999,Menunggu,135 menit
+A006,Rasya,6,Laki laki,anak,kejang,2,Diproses,Sedang Diproses
+A002,Aufaa,4,Perempuan,anak,demam tinggi,3,Menunggu,15 menit
+A007,Zahra,8,Perempuan,anak,demam tinggi,3,Menunggu,30 menit
+A010,Nadin,6,Perempuan,anak,demam tinggi,3,Menunggu,45 menit
+A001,Amii,3,Perempuan,anak,cacar,999,Menunggu,60 menit
+A003,Fahra,10,Perempuan,anak,batuk,999,Menunggu,75 menit
+A004,Rio,3,Laki laki,anak,amandel,999,Menunggu,90 menit
+A005,Alfa,4,Perempuan,anak,gatal gatal,999,Menunggu,105 menit
+A008,Qiana,9,Perempuan,anak,konsultasi,999,Menunggu,120 menit
+A009,Findra,6,Perempuan,anak,batuk,999,Menunggu,135 menit
+U023,Soimah,34,Perempuan,umum,pendarahan,1,Waiting List,-
+U026,Foura,22,Perempuan,umum,pendarahan,1,Waiting List,-
+U035,Jadid,21,Laki laki,umum,pendarahan,1,Waiting List,-
+U020,Sumini,47,Perempuan,umum,kejang,2,Waiting List,-
+U024,Erlang,13,Laki laki,umum,kejang,2,Waiting List,-
+U033,Arifin,31,Laki laki,umum,kejang,2,Waiting List,-
+U011,Tukijem,67,Perempuan,umum,batuk,999,Waiting List,-
+U012,Tsani,41,Perempuan,umum,demam,999,Waiting List,-
+U013,Anis,31,Perempuan,umum,radang,999,Waiting List,-
+U014,Edi,37,Laki laki,umum,diare,999,Waiting List,-
+U015,Aminah,55,Perempuan,umum,flu,999,Waiting List,-
+U016,Aan,21,Laki laki,umum,sakit mata,999,Waiting List,-
+U017,Nafis,24,Laki laki,umum,konsultasi,999,Waiting List,-
+U018,haekal,32,Laki laki,umum,flu,999,Waiting List,-
+U019,Rifky,36,Laki laki,umum,batuk,999,Waiting List,-
+U021,Satria,18,Laki laki,umum,luka,999,Waiting List,-
+U022,Eko,41,Laki laki,umum,diare,999,Waiting List,-
+U025,Dhanu,15,Laki laki,umum,meriang,999,Waiting List,-
+U027,Serly,25,Perempuan,umum,radang,999,Waiting List,-
+U028,Malya,45,Perempuan,umum,flu,999,Waiting List,-
+U029,Rifda,44,Perempuan,umum,batuk,999,Waiting List,-
+U030,Arif,50,Laki laki,umum,meriang,999,Waiting List,-
+U031,Dani,33,Laki laki,umum,konsultasi,999,Waiting List,-
+U032,Sofi'i,49,Perempuan,umum,flu,999,Waiting List,-
+U034,Devina,11,Perempuan,umum,batuk,999,Waiting List,-
+U036,Steven,17,Laki laki,umum,batuk,999,Waiting List,-
+U037,Ria,33,Perempuan,umum,diare,999,Waiting List,-
+G011,Vena,30,Perempuan,gigi,tambal gigi,999,Waiting List,-
+G012,Inah,37,Perempuan,gigi,scaling,999,Waiting List,-
+G013,Pasha,19,Laki laki,gigi,cabut gigi,999,Waiting List,-
+G014,Fahmy,28,Laki laki,gigi,berdarah,999,Waiting List,-
+G015,Gading,21,Laki laki,gigi,scaling,999,Waiting List,-
+A012,Nisya,1,Perempuan,anak,kejang,2,Waiting List,-
+A011,Aisyah,7,Perempuan,anak,demam tinggi,3,Waiting List,-
+A013,Gilang,2,Laki laki,anak,demam tinggi,3,Waiting List,-
